@@ -1,6 +1,6 @@
 ## About project
 
-![Image alt](https://github.com/henryh/origin/raw/master/screen.png)
+![Image alt](https://github.com/henryh/userbook/raw/master/screen.png)
 
 Based on Laravel.
 
