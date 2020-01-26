@@ -1,6 +1,6 @@
 ## About project
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/screen.png)
+![Image alt](https://github.com/henryh/origin/raw/master/screen.png)
 
 Based on Laravel.
 
@@ -8,6 +8,6 @@ Based on Laravel.
 
 ## More
 
-[Project author: {username}](https://github.com/henryh)
+[Project author](https://github.com/henryh)
 [Laravel documentation](https://laravel.com/docs/contributions).
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
