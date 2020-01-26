@@ -32,12 +32,12 @@ The main routing is here:
 https://github.com/henryh/userbook/blob/master/routes/web.php
 
 ## Intallation
-- 1. Clone project
-- 2. Create the .env file from .env.example
-- 3. Run composer update
-- 4. Run artisan db migration
-- 5. Run artisan db seeder
-- 6. Open the application and register your own account to log in.
+1. Clone project
+2. Create the .env file from .env.example
+3. Run composer update
+4. Run artisan db migration
+5. Run artisan db seeder
+6. Open the application and register your own account to log in.
 
 ## More
 
